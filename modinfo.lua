@@ -1,7 +1,7 @@
 local chinese = locale == "zh" or locale  == "zhr"
 
 name = chinese and "基础房间内容包" or "Base Rooms Package"
-description = ""
+description = chinese and "本模组为\"房间\"Mod的附属模组，提供基础的可体验内容。因此你必须同时开启\"房间\"mod和本模组才能正常游玩。" or "This mod is an accessory mod of the \"Room\" mod, providing basic experiential content. Therefore, you must enable both the \"Room\" mod and this mod to play normally."
 author = "liximi"
 version = "dev"
 
