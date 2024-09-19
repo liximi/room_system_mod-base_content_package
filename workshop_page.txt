@@ -12,7 +12,10 @@
 [/list]
 
 [h1]内容[/h1]
-[img]https://steamuserimages-a.akamaihd.net/ugc/2042998544427646818/B9C99340DFFC2ED76491DB7E8A8719FCD4C11FE1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false[/img]
+[img]https://steamuserimages-a.akamaihd.net/ugc/2464121257332359856/ED78D98A558CFD0FF983408D60704DB995C1E324/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false[/img]
+[list]
+[*]提供了mod设置来调整房间的参数。
+[/list]
 
 [h1]给modder们[/h1]
 [b]欢迎各位modder使用[url=store.steampowered.com]"房间"[/url]mod创作新的内容和玩法！[/b]

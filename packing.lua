@@ -20,7 +20,7 @@ local export_files = {          --要导出的所有文件
     "rbc_main_scripts",
 }
 local modinfo_override = {      --modinfo属性覆写，不需要修改的属性就注释掉, key和value都只支持字符串类型
-    version = "1.0.0",
+    version = "0.0.1",
 }
 
 
