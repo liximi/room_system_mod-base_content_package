@@ -20,6 +20,7 @@
 [h1]给modder们[/h1]
 [b]欢迎各位modder使用[url=store.steampowered.com]"房间"[/url]mod创作新的内容和玩法！[/b]
 你可以查看本mod的代码来学习如何使用房间系统！
+本mod编号：3333908795
 
 [h1]更新计划[/h1]
 暂无，大家可以提供想法。
