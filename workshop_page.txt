@@ -12,7 +12,7 @@
 [/list]
 
 [h1]内容[/h1]
-[img]https://steamuserimages-a.akamaihd.net/ugc/2464121257332359856/ED78D98A558CFD0FF983408D60704DB995C1E324/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false[/img]
+[img]https://steamuserimages-a.akamaihd.net/ugc/2464121257334708367/E10B0D03E5A6796FB9750C35B74B537C118E7256/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false[/img]
 [list]
 [*]提供了mod设置来调整房间的参数。
 [/list]
