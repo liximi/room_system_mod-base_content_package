@@ -23,9 +23,12 @@ icon = "modicon.tex"
 
 
 mod_dependencies = {
+    -- {
+    --     [chinese and "房间" or "Rooms"] = true,
+    -- },
     {
-        [chinese and "房间" or "Rooms"] = true,
-    },
+        workshop = "workshop-3334403593",
+    }
 }
 
 configuration_options = {
