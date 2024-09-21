@@ -2,7 +2,7 @@
 [quote]
 本mod为个人爱好所做，禁止任何个人或组织搬运和转载、除自用外的修改发布、或其他任何形式的盗用行为。
 [/quote]
-[h2]【警告】本模组为[url=store.steampowered.com]"房间"Mod[/url]的附属模组，提供基础的可体验内容。因此你必须同时开启"房间"mod和本模组才能正常游玩。[/h2]
+[h2]【警告】本模组为[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3334403593]"房间"[/url]mod的附属模组，提供基础的可体验内容。因此你必须同时开启"房间"mod和本模组才能正常游玩。[/h2]
 
 [h1]简介[/h1]
 [list]
@@ -18,12 +18,13 @@
 [/list]
 
 [h1]给modder们[/h1]
-[b]欢迎各位modder使用[url=store.steampowered.com]"房间"[/url]mod创作新的内容和玩法！[/b]
+[b]欢迎各位modder使用[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3334403593]"房间"[/url]mod创作新的内容和玩法！[/b]
 你可以查看本mod的代码来学习如何使用房间系统！
 本mod编号：3333908795
 
 [h1]更新计划[/h1]
 暂无，大家可以提供想法。
+但是基于“房间”mod的新玩法mod已经在开发计划中。
 [h1]其他[/h1]
 如果你喜欢这个mod，请点赞支持！
 [h2]反馈/交流群[/h2]
