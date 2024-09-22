@@ -12,6 +12,7 @@
 [/list]
 
 [h1]内容[/h1]
+[url=https://www.bilibili.com/video/BV1K1tUeyEr3/?vd_source=fbff6f6010b7d95413b8907198414737]Bilibili演示视频[/url]
 [img]https://steamuserimages-a.akamaihd.net/ugc/2464121257334708367/E10B0D03E5A6796FB9750C35B74B537C118E7256/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false[/img]
 [list]
 [*]提供了mod设置来调整房间的参数。
