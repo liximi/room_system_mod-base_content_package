@@ -1,0 +1,36 @@
+[h1]Statement[/h1]
+[quote]
+This mod is created as a personal hobby project. Unauthorized redistribution, modification for purposes other than personal use, or any other form of misappropriation by individuals or organizations is prohibited.
+[/quote]
+[h2][Warning] This mod is an add-on for the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3334403593]"Rooms"[/url] mod, providing basic playable content. To use this mod properly, you must have both the "Rooms" mod and this add-on enabled.[/h2]
+
+[h1]Description[/h1]
+[list]
+[*]The Room System functions similarly to the one in *Oxygen Not Included*.
+[*]Within a closed area constructed by walls of a specific size, you can form specific rooms by placing required items, buildings, etc.
+[*]Different rooms offer different effects.
+[/list]
+
+[h1]Content[/h1]
+[url=https://www.bilibili.com/video/BV1K1tUeyEr3/?vd_source=fbff6f6010b7d95413b8907198414737]Bilibili Demo Video[/url]
+[img]https://steamuserimages-a.akamaihd.net/ugc/2464121257334708367/E10B0D03E5A6796FB9750C35B74B537C118E7256/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false[/img]
+[list]
+[*]Provides mod settings to adjust room parameters.
+[/list]
+
+[h1]For Modders[/h1]
+[b]Modders are welcome to use the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3334403593]"Rooms"[/url] mod to create new content and gameplay![/b]
+Feel free to review this mod's code to learn how to use the Room System!
+Mod ID: 3333908795
+
+[h1]Update Plans[/h1]
+No updates are currently planned, but ideas are welcome.
+A new mod that introduces new gameplay based on the “Rooms” mod is already in development.
+
+[h1]Other[/h1]
+If you enjoy this mod, please give it a thumbs up!
+Translated from ChatGPT.
+[h2]Feedback/Community Group[/h2]
+QQ Group: 745468368
+
+[img]https://steamuserimages-a.akamaihd.net/ugc/2383056013912597222/C3B0C9DFF262CE8DBA0D283FCA910D52AEEADAAA/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false[/img]
