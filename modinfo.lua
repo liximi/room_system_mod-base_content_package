@@ -22,14 +22,20 @@ icon_atlas = "modicon.xml"
 icon = "modicon.tex"
 
 
-mod_dependencies = {
-    -- {
-    --     [chinese and "房间" or "Rooms"] = true,
-    -- },
-    {
-        workshop = "workshop-3334403593",
+if version == "dev" then
+    mod_dependencies = {
+        {
+            [chinese and "房间" or "Rooms"] = true,
+        }
     }
-}
+else
+    mod_dependencies = {
+        {
+            workshop = "workshop-3334403593",
+        }
+    }
+end
+
 
 configuration_options = {
     {
